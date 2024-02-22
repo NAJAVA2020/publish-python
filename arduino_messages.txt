@@ -1,0 +1,91 @@
+FONA SMS caller ID test
+Initializing....(May take 3 seconds)
+Attempting to open comm with ATs
+---> AT
+<--- OK
+---> ATE0
+<--- OK
+---> ATE0
+<--- OK
+---> AT+CVHU=0
+<--- OK
+---> ATI
+<--- SIM808 R14.18
+
+OK
+
+---> AT+CPMS="SM","SM","SM"
+<--- +CPMS: 15,50,15,50,15,50
+FONA is OK
+---> AT+GSN
+<--- 869170034946112
+SIM card IMEI: 869170034946112
+FONA Ready
+Sending reponse...
+---> AT+CMGF=1
+<--- OK
+---> AT+CMGS="+447443697218"
+<--- >
+> Server Has been turned on...its now online!
+^Z
+Failed
+message1
+message2 Active
+LoRa Receiver
+>
++CMGS: 164
+
+OK
+Received packet 'Chemical:  WELLA  , Glyphosate
+' with RSSI -67
+
+message2 -67
+Preparing to send Sms Response --------
+WELLA  , Glyphosate
+---> AT+CMGF=1
+<--- OK
+---> AT+CMGS="+447386879842"
+<--- >
+> WELLA  , Glyphosate
+^Z
++447386879842
+---> AT+CMGF=1
+<--- OK
+---> AT+CMGS="+447443697218"
+<--- >
+> WELLA  , Glyphosate
+^Z
++447443697218
+message1 WELLA  , Glyphosate
+message2 -67
+>
++CMGS: 166
+
+OK
+Received packet 'Chemical:  WELLA  , Abamectin
+' with RSSI -68
+message1 WELLA  , Abamectin
+message2 -68
+Preparing to send Sms Response --------
+-----Message Received from Lora: WELLA  , Abamectin
+---> AT+CMGF=1
+<--- OK
+---> AT+CMGS="+447386879842"
+<--- >
+> WELLA  , Abamectin
+^Z
+
+---> AT+CMGF=1
+<--- OK
+---> AT+CMGS="+447443697218"
+<--- >
+> WELLA  , Abamectin
+^Z
+
+message1 WELLA  , Abamectin
+message2 -68
+>
++CMGS: 168
+
+OK
+
