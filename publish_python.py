@@ -1,7 +1,7 @@
 import serial
 
 # Define the serial port and baud rate
-serial_port = 'COM7'  # Change this to match your Arduino's serial port
+serial_port = 'COM5'  # Change this to match your Arduino's serial port
 baud_rate = 9600
 
 # Open the serial port
