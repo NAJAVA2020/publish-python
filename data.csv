@@ -1,9 +1,9 @@
 Time,Well_ID,Pesticide,RSSI
-Sat Mar  2 09:09:25 2024, WELLA ,Fipronil,62
-Sat Mar  2 09:09:25 2024, WELLA ,Diazinon,63
-Sat Mar  2 09:09:25 2024,N/A, ctin,63
-Sat Mar  2 09:09:25 2024,N/A, ine,62
-Sat Mar  2 09:09:25 2024,N/A, rin,69
-Sat Mar  2 09:09:25 2024,N/A,' ne,57
-Sat Mar  2 09:09:25 2024,N/A, cyhalothrin,57
-Sat Mar  2 09:09:25 2024,N/A,',58
+Sat Mar  2 12:38:27 2024, WELLA ,Fipronil,-62
+Sat Mar  2 12:38:27 2024, WELLA ,Diazinon,-63
+Sat Mar  2 12:38:27 2024,N/A, ctin,-63
+Sat Mar  2 12:38:27 2024,N/A, ine,-62
+Sat Mar  2 12:38:27 2024,N/A, rin,-69
+Sat Mar  2 12:38:27 2024,N/A,' ne,-57
+Sat Mar  2 12:38:27 2024,N/A, cyhalothrin,-57
+Sat Mar  2 12:38:27 2024,N/A,',-58

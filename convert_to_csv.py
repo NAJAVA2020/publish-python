@@ -23,7 +23,7 @@ def convert_to_csv():
         data = file.read()
 
     chem_reg = r"Received packet (.*)"
-    rssi_reg = r" with RSSI -(.*)"
+    rssi_reg = r" with RSSI (.*)"
 
     chem_data = {i: data.replace("Chemical: ", "")
                  for i, data in enumerate(re.findall(chem_reg, data))
