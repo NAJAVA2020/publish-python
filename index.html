@@ -79,15 +79,18 @@
             })
             .catch(error => console.error(error));
 
-        // show time
         const timeNow = document.getElementById("time-now");
-        const date = new Date();
-        timeNow.innerHTML = date.toDateString() + "<br>" +
-            `Time: ${date.toLocaleTimeString()}`
-        setInterval(() => {
+
+        function showTime() {
             const date = new Date();
             timeNow.innerHTML = date.toDateString() + "<br>" +
-                `Time: ${date.toLocaleTimeString()}`
+                `Time: <strong class="text-success">${date.toLocaleTimeString()}</strong>`
+        }
+
+        showTime()
+
+        setInterval(() => {
+            showTime()
         }, 1000);
 
     </script>
