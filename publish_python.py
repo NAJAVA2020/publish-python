@@ -1,4 +1,5 @@
 import serial
+import time
 
 # Define the serial port and baud rate
 serial_port = 'COM5'  # Change this to match your Arduino's serial port
@@ -13,7 +14,7 @@ with open(file_path, 'w', encoding='UTF-8') as file:
     while True:
         # Read message from the serial port
         message = ser.readline().decode().strip()
-
+        print("[INFO] --- time: ", time.ctime())
         # Print the received message
         print(message)
 
