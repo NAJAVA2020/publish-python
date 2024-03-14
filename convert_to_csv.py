@@ -67,5 +67,5 @@ def convert_to_csv():
     print("[INFO] --- CSV file created successfully --- ")
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     convert_to_csv()
