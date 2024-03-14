@@ -13,7 +13,7 @@ def push_to_git():
     """
     os.system("git add .")
     random_string = secrets.token_hex(16)
-    os.system("git commit -m '{random_string}'")
+    os.system(f"git commit -m '{random_string}'")
 
     # Assuming the branch is 'main', change if necessary
     os.system("git push origin main")
