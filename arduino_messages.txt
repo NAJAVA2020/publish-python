@@ -1,331 +1,143 @@
-
-message2 -63
-Preparing to send Sms Response --------
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Imidacloprid
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Imidacloprid
-^Z
-
-message1 WELLA  , Imidacloprid
-message2 -63
->
-+CMGS: 225
-
-OK
-Received packet 'Chemical:  WELLA  , Fipronil
-' with RSSI -62
-
-message2 -62
-Preparing to send Sms Response --------
-WELLA  , Fipronil
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Fipronil
-^Z
-+447386879842
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Fipronil
-^Z
-+447443697218
-message1 WELLA  , Fipronil
-message2 -62
->
-+CMGS: 227
-
-OK
-Received packet 'Chemical:  WELLA  , Diazinon
-' with RSSI -63
-
-message2 -63
-Preparing to send Sms Response --------
-WELLA  , Diazinon
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Diazinon
-^Z
-+447386879842
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Diazinon
-^Z
-+447443697218
-message1 WELLA  , Diazinon
-message2 -63
->
-+CMGS: 229
-
-OK
-Received packet 'Chemical:  ctin
-' with RSSI -63
-message1 ctin
-message2 -63
-Preparing to send Sms Response --------
-
-message1 ctin
-message2 -63
-Received packet '
-' with RSSI -69
-
-message2 -69
-Preparing to send Sms Response --------
-WELLA  , Abamectin
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Abamectin
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Abamectin
-^Z
-
-message1 WELLA  , Abamectin
-message2 -69
->
-+CMGS: 231
-
-OK
-Received packet '
-' with RSSI -64
-
-message2 -64
-Preparing to send Sms Response --------
-WELLA  , Glyphosate
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Glyphosate
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Glyphosate
-^Z
-
-
-message2 -64
->
-+CMGS: 233
-
-OK
-Received packet '
-' with RSSI -64
-
-message2 -64
-Preparing to send Sms Response --------
-WELLA  , Chlorpyrifos
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Chlorpyrifos
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Chlorpyrifos
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Chlorpyrifos
-^Z
-
-
-message2 -64
->
-+CMGS: 236
-
-OK
-Received packet '
-' with RSSI -63
-
-message2 -63
-Preparing to send Sms Response --------
-WELLA  , Pyrethroid
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Pyrethroid
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Pyrethroid
-^Z
-
-
-message2 -63
->
-+CMGS: 238
-
-OK
-Received packet '
-' with RSSI -65
-
-message2 -65
-Preparing to send Sms Response --------
-WELLA  , Metalaxyl
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Metalaxyl
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Metalaxyl
-^Z
-
-
-message2 -65
->
-+CMGS: 240
-
-OK
-Received packet '
-' with RSSI -65
-
-message2 -65
-Preparing to send Sms Response --------
-WELLA  , 2, 4-D
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , 2, 4-D
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , 2, 4-D
-^Z
-
-message1 WELLA  , 2, 4-D
-message2 -65
->
-+CMGS: 242
-
-OK
-Received packet 'Chemical:  ine
-' with RSSI -62
-message1 ine
-message2 -62
-Preparing to send Sms Response --------
-ine
-message1 ine
-message2 -62
-Received packet 'Chemical:  rin
-' with RSSI -69
-message1 rin
-message2 -69
-Preparing to send Sms Response --------
-rin
-message1 rin
-message2 -69
-Received packet 'Chemical:  ne , Atrazine
-' with RSSI -57
-
-message2 -57
-Preparing to send Sms Response --------
-ne , Atrazine
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> ne , Atrazine
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> ne , Atrazine
-^Z
-
-message1 ne , Atrazine
-message2 -57
->
-+CMGS: 244
-
-OK
-Received packet 'Chemical:  cyhalothrin
-' with RSSI -57
-
-message2 -57
-Preparing to send Sms Response --------
-cyhalothrin
-message1 cyhalothrin
-message2 -57
-Received packet '
-' with RSSI -58
-
-message2 -58
-Preparing to send Sms Response --------
-WELLA  , Atrazine
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447386879842"
-<--- >
-> WELLA  , Atrazine
-^Z
-
----> AT+CMGF=1
-<--- OK
----> AT+CMGS="+447443697218"
-<--- >
-> WELLA  , Atrazine
-^Z
-
-
-message2 -58
->
-+CMGS: 246
-
-OK
-Received packet 'Chemical:  , 2, 4-D
-' with RSSI -58
-
-message2 -58
-Preparing to send Sms Response --------
-, 2, 4-D
-message1 , 2, 4-D
-message2 -58
+[2024-03-09 12:49:17] ------ FONA SMS caller ID test 
+[2024-03-09 12:49:17] ------ Initializing....(May take 3 seconds) 
+[2024-03-09 12:49:27] ------ Attempting to open comm with ATs 
+[2024-03-09 12:49:27] ------ ---> AT 
+[2024-03-09 12:49:27] ------ <--- OK 
+[2024-03-09 12:49:27] ------ ---> ATE0 
+[2024-03-09 12:49:27] ------ <--- OK 
+[2024-03-09 12:49:27] ------ ---> ATE0 
+[2024-03-09 12:49:27] ------ <--- OK 
+[2024-03-09 12:49:27] ------ ---> AT+CVHU=0 
+[2024-03-09 12:49:27] ------ <--- OK 
+[2024-03-09 12:49:28] ------ ---> ATI 
+[2024-03-09 12:49:28] ------ <--- SIM808 R14.18 
+[2024-03-09 12:49:28] ------  
+[2024-03-09 12:49:28] ------ OK 
+[2024-03-09 12:49:28] ------  
+[2024-03-09 12:49:28] ------ ---> AT+CPMS="SM","SM","SM" 
+[2024-03-09 12:49:28] ------ <--- +CPMS: 26,50,26,50,26,50 
+[2024-03-09 12:49:28] ------ FONA is OK 
+[2024-03-09 12:49:28] ------ ---> AT+GSN 
+[2024-03-09 12:49:28] ------ <--- 869170034946112 
+[2024-03-09 12:49:28] ------ SIM card IMEI: 869170034946112 
+[2024-03-09 12:49:28] ------ FONA Ready 
+[2024-03-09 12:49:28] ------ Sending reponse... 
+[2024-03-09 12:49:28] ------ ---> AT+CMGF=1 
+[2024-03-09 12:49:28] ------ <--- OK 
+[2024-03-09 12:49:29] ------ ---> AT+CMGS="+447443697218" 
+[2024-03-09 12:49:29] ------ <--- > 
+[2024-03-09 12:49:29] ------ > Server Has been turned on...its now online! 
+[2024-03-09 12:49:29] ------ ^Z 
+[2024-03-09 12:49:29] ------ Failed 
+[2024-03-09 12:49:30] ------ LoRa Receiver 
+[2024-03-09 12:49:32] ------ > 
+[2024-03-09 12:49:32] ------ +CMGS: 179 
+[2024-03-09 12:49:32] ------  
+[2024-03-09 12:49:32] ------ OK 
+[2024-03-09 12:50:23] ------ Received packet 'Chemical:  WELLA  , Metalaxyl 
+[2024-03-09 12:50:23] ------ ' with RSSI -58 
+[2024-03-09 12:50:24] ------ WELLA  , Metalaxyl 
+[2024-03-09 12:50:24] ------ -58 
+[2024-03-09 12:50:24] ------ Preparing to send Sms Response -------- 
+[2024-03-09 12:50:24] ------ WELLA  , Metalaxyl 
+[2024-03-09 12:50:24] ------ ---> AT+CMGF=1 
+[2024-03-09 12:50:24] ------ <--- OK 
+[2024-03-09 12:50:24] ------ ---> AT+CMGS="+447443697218" 
+[2024-03-09 12:50:25] ------ <--- > 
+[2024-03-09 12:50:25] ------ > WELLA  , Metalaxyl 
+[2024-03-09 12:50:25] ------ ^Z 
+[2024-03-09 12:50:25] ------  
+[2024-03-09 12:50:30] ------ ---> AT+CMGF=1 
+[2024-03-09 12:50:30] ------ <--- OK 
+[2024-03-09 12:50:30] ------ ---> AT+CMGS="+447386879842" 
+[2024-03-09 12:50:30] ------ <--- > 
+[2024-03-09 12:50:30] ------ > WELLA  , Metalaxyl 
+[2024-03-09 12:50:31] ------ ^Z 
+[2024-03-09 12:50:31] ------  
+[2024-03-09 12:50:37] ------ message1 WELLA  , Metalaxyl 
+[2024-03-09 12:50:37] ------ message2 -58 
+[2024-03-09 12:50:37] ------ > 
+[2024-03-09 12:50:37] ------ +CMGS: 181 
+[2024-03-09 12:50:37] ------  
+[2024-03-09 12:50:37] ------ OK 
+[2024-03-09 12:50:50] ------ Received packet 'Chemical:  WELLA  , Metalaxyl 
+[2024-03-09 12:50:50] ------ ' with RSSI -58 
+[2024-03-09 12:50:51] ------ WELLA  , Metalaxyl 
+[2024-03-09 12:50:51] ------ -58 
+[2024-03-09 12:50:51] ------ Preparing to send Sms Response -------- 
+[2024-03-09 12:50:51] ------  
+[2024-03-09 12:50:51] ------ ---> AT+CMGF=1 
+[2024-03-09 12:50:51] ------ <--- OK 
+[2024-03-09 12:50:51] ------ ---> AT+CMGS="+447443697218" 
+[2024-03-09 12:50:52] ------ <--- > 
+[2024-03-09 12:50:52] ------ > WELLA  , Metalaxyl 
+[2024-03-09 12:50:52] ------ ^Z 
+[2024-03-09 12:50:52] ------  
+[2024-03-09 12:50:57] ------ ---> AT+CMGF=1 
+[2024-03-09 12:50:57] ------ <--- OK 
+[2024-03-09 12:50:57] ------ ---> AT+CMGS="+447386879842" 
+[2024-03-09 12:50:57] ------ <--- > 
+[2024-03-09 12:50:57] ------ > WELLA  , Metalaxyl 
+[2024-03-09 12:50:57] ------ ^Z 
+[2024-03-09 12:50:58] ------  
+[2024-03-09 12:51:04] ------ message1 WELLA  , Metalaxyl 
+[2024-03-09 12:51:04] ------ message2 -58 
+[2024-03-09 12:51:04] ------ > 
+[2024-03-09 12:51:04] ------ +CMGS: 183 
+[2024-03-09 12:51:04] ------  
+[2024-03-09 12:51:04] ------ OK 
+[2024-03-09 12:52:05] ------ Received packet 'Chemical:  e 
+[2024-03-09 12:52:05] ------ ' with RSSI -56 
+[2024-03-09 12:52:06] ------ e 
+[2024-03-09 12:52:06] ------ -56 
+[2024-03-09 12:52:06] ------ message2 -56 
+[2024-03-09 12:54:16] ------ FONA SMS caller ID test 
+[2024-03-09 12:54:16] ------ Initializing....(May take 3 seconds) 
+[2024-03-09 12:54:26] ------ Attempting to open comm with ATs 
+[2024-03-09 12:54:26] ------ ---> AT 
+[2024-03-09 12:54:26] ------ <--- OK 
+[2024-03-09 12:54:26] ------ ---> ATE0 
+[2024-03-09 12:54:26] ------ <--- OK 
+[2024-03-09 12:54:26] ------ ---> ATE0 
+[2024-03-09 12:54:26] ------ <--- OK 
+[2024-03-09 12:54:26] ------ ---> AT+CVHU=0 
+[2024-03-09 12:54:26] ------ <--- OK 
+[2024-03-09 12:54:26] ------ ---> ATI 
+[2024-03-09 12:54:27] ------ <--- SIM808 R14.18 
+[2024-03-09 12:54:27] ------  
+[2024-03-09 12:54:27] ------ OK 
+[2024-03-09 12:54:27] ------  
+[2024-03-09 12:54:27] ------ ---> AT+CPMS="SM","SM","SM" 
+[2024-03-09 12:54:27] ------ <--- +CPMS: 26,50,26,50,26,50 
+[2024-03-09 12:54:27] ------ FONA is OK 
+[2024-03-09 12:54:27] ------ ---> AT+GSN 
+[2024-03-09 12:54:27] ------ <--- 869170034946112 
+[2024-03-09 12:54:27] ------ SIM card IMEI: 869170034946112 
+[2024-03-09 12:54:27] ------ FONA Ready 
+[2024-03-09 12:54:27] ------ Sending reponse... 
+[2024-03-09 12:54:27] ------ ---> AT+CMGF=1 
+[2024-03-09 12:54:27] ------ <--- OK 
+[2024-03-09 12:54:27] ------ ---> AT+CMGS="+447443697218" 
+[2024-03-09 12:54:28] ------ <--- > 
+[2024-03-09 12:54:28] ------ > Server Has been turned on...its now online! 
+[2024-03-09 12:54:28] ------ ^Z 
+[2024-03-09 12:54:28] ------ Failed 
+[2024-03-09 12:54:29] ------ LoRa Receiver 
+[2024-03-09 12:54:31] ------ > 
+[2024-03-09 12:54:31] ------ +CMGS: 184 
+[2024-03-09 12:54:31] ------  
+[2024-03-09 12:54:31] ------ OK 
+[2024-03-09 13:00:24] ------ FONA SMS caller ID test 
+[2024-03-09 13:00:54] ------ Initializing....(May take 3 seconds) 
+[2024-03-09 13:01:24] ------ Attempting to open comm with ATs 
+[2024-03-09 13:01:54] ------ ---> AT 
+[2024-03-09 13:02:24] ------ <--- OK 
+[2024-03-09 13:02:54] ------ ---> ATE0 
+[2024-03-09 13:03:24] ------ <--- OK 
+[2024-03-09 13:03:54] ------ ---> ATE0 
+[2024-03-09 13:04:24] ------ <--- OK 
+[2024-03-09 13:04:54] ------ ---> AT+CVHU=0 
+[2024-03-09 13:05:24] ------ <--- OK 
+[2024-03-09 13:05:54] ------ ---> ATI 
+[2024-03-09 13:06:24] ------ <--- SIM808 R14.18 
+[2024-03-09 13:06:54] ------  
