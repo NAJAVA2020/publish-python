@@ -58,7 +58,7 @@ def convert_to_csv():
 
     # create csv file
     csv_file = "data.csv"
-    with open(csv_file, "a", newline="") as file:
+    with open(csv_file, "w", newline="") as file:
         writer = csv.DictWriter(
             file, fieldnames=["Time", "Well_ID", "Pesticide", "RSSI"])
         writer.writeheader()
