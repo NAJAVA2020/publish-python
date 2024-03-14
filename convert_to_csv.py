@@ -51,7 +51,7 @@ def convert_to_csv():
         dict_ = {
             "Time": time_,
             "Well_ID": well_id,
-            "Pesticide": pesticide,
+            "Pesticide": pesticide.replace(",", "'"),
             "RSSI": rssi
         }
         entries.append(dict_)
