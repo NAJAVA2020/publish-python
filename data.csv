@@ -134,3 +134,7 @@ Time,Well_ID,Pesticide,RSSI
 2024-03-09 12:50:23, WELLA ,Metalaxyl ,-58 
 2024-03-09 12:50:50, WELLA ,Metalaxyl ,-58 
 2024-03-09 12:52:05,N/A,' e ,-56 
+Time,Well_ID,Pesticide,RSSI
+2024-03-09 12:50:23, WELLA ,Metalaxyl ,-58 
+2024-03-09 12:50:50, WELLA ,Metalaxyl ,-58 
+2024-03-09 12:52:05,N/A,' e ,-56 
