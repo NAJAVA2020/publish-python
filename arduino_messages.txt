@@ -220,3 +220,5 @@
 [2024-03-14 19:51:14] ------ message2 -68 
 [2024-03-14 19:51:14] ------ Preparing to send Sms Response -------- 
 [2024-03-14 19:51:14] ------ -----Message Received from Lora: idacloprid 
+[2024-03-14 19:51:20] ------ message1 idacloprid 
+[2024-03-14 19:51:20] ------ message2 -68 
